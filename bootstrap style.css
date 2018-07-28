@@ -1,0 +1,43 @@
+body {
+    background:#B3DEF3;
+
+}
+
+.text-center {
+
+    border:solid 5px;
+    border-color: black;
+    padding-right:15px;
+    
+    
+}
+
+.name {
+
+    float: right;
+}
+
+
+.footer {
+    
+    color:white;
+    background:maroon;
+    padding-top:15px;
+    padding-bottom:15px;
+    text-align: center;
+}
+
+.navbar {
+
+    padding-bottom: 20px;
+}
+
+h2 {
+
+    color: white;
+}
+
+.nav-link {
+
+    color:black;
+}
